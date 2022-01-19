@@ -14,5 +14,8 @@
     <input type="text" name="n2">
     <input type="submit" value="Enviar">
 </form>
+<?php
+    echo "Funcionando!";
+?>
 </body>
 </html>
